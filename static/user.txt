@@ -27,13 +27,6 @@
 	"pay": "200",
 	"endtime": "2021-06-06 11:25:20"
 }, {
-	"name": "卡点助手22",
-	"cardid": "20190526",
-	"defaultdelay": 100,
-	"randomdelay": 100,
-	"pay": "30",
-	"endtime": "2019-06-26 09:30:20"
-}, {
 	"name": "卡点助手1",
 	"cardid": "20190515",
 	"defaultdelay": 100,
@@ -208,6 +201,20 @@
 	"randomdelay": 100,
 	"pay": "50",
 	"endtime": "2019-06-25 20:15:20"
+}, {
+	"name": "卡点助手22",
+	"cardid": "20190526",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "30",
+	"endtime": "2019-06-26 09:30:20"
+}, {
+	"name": "卡点助手23",
+	"cardid": "73488366",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "30",
+	"endtime": "2019-06-26 09:30:20"
 }, {
 	"name": "xz",
 	"cardid": "19890415",
