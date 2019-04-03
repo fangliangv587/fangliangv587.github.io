@@ -27,6 +27,13 @@
 	"pay": "200",
 	"endtime": "2021-06-06 11:25:20"
 }, {
+	"name": "卡点助手试用",
+	"cardid": "20190526",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "0",
+	"endtime": "2019-05-26 09:30:20"
+}, {
 	"name": "卡点助手1",
 	"cardid": "20190515",
 	"defaultdelay": 100,
