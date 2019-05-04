@@ -8,8 +8,8 @@
 }, {
 	"name": "wx小龙",
 	"cardid": "0909141x",
-	"defaultdelay": 100,
-	"randomdelay": 100,
+	"defaultdelay": 170,
+	"randomdelay": 170,
 	"pay": "200",
 	"endtime": "2019-06-03 11:00:20"
 }, {
