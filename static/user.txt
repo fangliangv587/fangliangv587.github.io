@@ -15,8 +15,8 @@
 }, {
 	"name": "qq同元wx高威",
 	"cardid": "09221614",
-	"defaultdelay": 500,
-	"randomdelay": 500,
+	"defaultdelay": 0,
+	"randomdelay": 100,
 	"pay": "160",
 	"endtime": "2019-06-03 15:40:20"
 }, {
