@@ -75,4 +75,11 @@
 	"randomdelay": 500,
 	"pay": "0",
 	"endtime": "2019-05-04 09:00:00"
+}, {
+	"name": "qq啊牛",
+	"cardid": "06250327",
+	"defaultdelay": 300,
+	"randomdelay": 300,
+	"pay": "0",
+	"endtime": "2019-05-05 12:00:00"
 }]
