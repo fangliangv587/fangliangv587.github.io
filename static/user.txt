@@ -20,6 +20,13 @@
 	"pay": "160",
 	"endtime": "2019-06-03 15:40:20"
 }, {
+	"name": "qq闲来无事wx诚信为本",
+	"cardid": "19841128",
+	"defaultdelay": 200,
+	"randomdelay": 300,
+	"pay": "200",
+	"endtime": "2019-06-06 11:25:20"
+}, {
 	"name": "xz",
 	"cardid": "19890415",
 	"defaultdelay": 100,
