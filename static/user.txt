@@ -53,7 +53,7 @@
 	"defaultdelay": 500,
 	"randomdelay": 500,
 	"pay": "0",
-	"endtime": "2019-05-14 20:15:20"
+	"endtime": "2019-05-16 12:15:20"
 }, {
 	"name": "qq江哥",
 	"cardid": "08285436",
