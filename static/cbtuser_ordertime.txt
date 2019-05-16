@@ -1,0 +1,15 @@
+﻿[{
+	"name": "test",
+	"cardid": "19890415",
+	"defaultdelay": 500,
+	"randomdelay": 500,
+	"pay": "100",
+	"endtime": "2029-06-01 16:16:20"
+}, {
+	"name": "wx小龙qq项于",
+	"cardid": "0909141x",
+	"defaultdelay": 125,
+	"randomdelay": 100,
+	"pay": "200",
+	"endtime": "2019-03-03 11:00:20"
+}]
