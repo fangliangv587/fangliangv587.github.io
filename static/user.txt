@@ -125,6 +125,13 @@
 	"pay": "30",
 	"endtime": "2020-06-20 20:15:20"
 }, {
+	"name": "卡点助手14",
+	"cardid": "86894331",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "30",
+	"endtime": "2020-06-20 20:15:20"
+}, {
 	"name": "xz",
 	"cardid": "19890415",
 	"defaultdelay": 100,
