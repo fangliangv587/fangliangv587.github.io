@@ -1,0 +1,15 @@
+[{
+	"name": "xz",
+	"cardid": "19890415",
+	"defaultdelay": 500,
+	"randomdelay": 500,
+	"pay": "0",
+	"endtime": "2020-06-01 16:16:20"
+},{
+	"name": "test",
+	"cardid": "test",
+	"defaultdelay": 500,
+	"randomdelay": 500,
+	"pay": "0",
+	"endtime": "2019-06-23 16:16:20"
+}]
