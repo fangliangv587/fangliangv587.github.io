@@ -1,6 +1,6 @@
 [{
 	"name": "xz",
-	"cardid": "19890415",
+	"cardid": "04151355",
 	"defaultdelay": 500,
 	"randomdelay": 500,
 	"pay": "0",
@@ -11,5 +11,5 @@
 	"defaultdelay": 500,
 	"randomdelay": 500,
 	"pay": "0",
-	"endtime": "2019-06-23 16:16:20"
+	"endtime": "2019-06-09 16:16:20"
 }]
