@@ -116,56 +116,63 @@
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-20 20:15:20"
+	"endtime": "2019-06-20 20:15:20"
 }, {
 	"name": "卡点助手13",
 	"cardid": "39894331",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-20 20:15:20"
+	"endtime": "2019-06-20 20:15:20"
 }, {
 	"name": "卡点助手14",
 	"cardid": "86894331",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-20 20:15:20"
+	"endtime": "2019-06-20 20:15:20"
 }, {
 	"name": "卡点助手14.5",
 	"cardid": "20549730",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "15",
-	"endtime": "2020-06-20 20:15:20"
+	"endtime": "2019-06-20 20:15:20"
 }, {
 	"name": "卡点助手15",
 	"cardid": "11041209",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-20 20:15:20"
+	"endtime": "2019-06-20 20:15:20"
 }, {
 	"name": "卡点助手16",
 	"cardid": "67579648",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-22 20:15:20"
+	"endtime": "2019-06-22 20:15:20"
 }, {
 	"name": "卡点助手17",
 	"cardid": "25437927",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-22 20:15:20"
+	"endtime": "2019-06-22 20:15:20"
 }, {
 	"name": "卡点助手18",
 	"cardid": "71782472",
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2020-06-23 20:15:20"
+	"endtime": "2019-06-23 20:15:20"
+}, {
+	"name": "卡点助手19",
+	"cardid": "07411535",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "30",
+	"endtime": "2019-06-25 20:15:20"
 }, {
 	"name": "xz",
 	"cardid": "19890415",
