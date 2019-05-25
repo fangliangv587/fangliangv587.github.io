@@ -11,7 +11,7 @@
 	"defaultdelay": 500,
 	"randomdelay": 500,
 	"pay": "100",
-	"endtime": "2019-05-23 20:16:20"
+	"endtime": "2019-05-25 12:16:20"
 }, {
 	"name": "wx小龙qq项于",
 	"cardid": "0909141x",
