@@ -213,7 +213,14 @@
 	"cardid": "73488366",
 	"defaultdelay": 100,
 	"randomdelay": 100,
-	"pay": "30",
+	"pay": "50",
+	"endtime": "2019-06-26 09:30:20"
+}, {
+	"name": "卡点助手24",
+	"cardid": "24532822",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "50",
 	"endtime": "2019-06-26 09:30:20"
 }, {
 	"name": "xz",
