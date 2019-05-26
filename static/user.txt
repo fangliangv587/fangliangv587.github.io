@@ -174,20 +174,6 @@
 	"pay": "30",
 	"endtime": "2019-06-25 20:15:20"
 }, {
-	"name": "xx-ms定制助手20",
-	"cardid": "12803007",
-	"defaultdelay": 100,
-	"randomdelay": 100,
-	"pay": "100",
-	"endtime": "2018-06-25 20:15:20"
-}, {
-	"name": "xx-ms定制助手21",
-	"cardid": "12803008",
-	"defaultdelay": 100,
-	"randomdelay": 100,
-	"pay": "50",
-	"endtime": "2018-06-25 20:15:20"
-}, {
 	"name": "卡点助手20",
 	"cardid": "65453605",
 	"defaultdelay": 100,
@@ -229,6 +215,27 @@
 	"randomdelay": 100,
 	"pay": "50",
 	"endtime": "2019-06-26 09:30:20"
+}, {
+	"name": "定制助手26",
+	"cardid": "12803007",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "50",
+	"endtime": "2019-06-25 20:15:20"
+}, {
+	"name": "定制助手27",
+	"cardid": "12803008",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "50",
+	"endtime": "2019-06-25 20:15:20"
+}, {
+	"name": "定制助手28",
+	"cardid": "12803009",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "50",
+	"endtime": "2019-06-25 20:15:20"
 }, {
 	"name": "xz",
 	"cardid": "19890415",
