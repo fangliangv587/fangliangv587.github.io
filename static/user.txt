@@ -237,6 +237,13 @@
 	"pay": "50",
 	"endtime": "2019-06-25 20:15:20"
 }, {
+	"name": "定制助手29",
+	"cardid": "12803560",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "50",
+	"endtime": "2019-06-25 20:15:20"
+}, {
 	"name": "xz",
 	"cardid": "19890415",
 	"defaultdelay": 100,
