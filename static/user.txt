@@ -263,54 +263,5 @@
 	"defaultdelay": 500,
 	"randomdelay": 500,
 	"pay": "0",
-	"endtime": "2019-05-27 12:18:20"
-}, {
-	"name": "qq江哥",
-	"cardid": "08285436",
-	"defaultdelay": 500,
-	"randomdelay": 500,
-	"pay": "0",
-	"endtime": "2019-05-03 20:40:20"
-}, {
-	"name": "qq123",
-	"cardid": "10187501",
-	"defaultdelay": 500,
-	"randomdelay": 500,
-	"pay": "0",
-	"endtime": "2019-05-03 20:40:20"
-}, {
-	"name": "qq離人鳶",
-	"cardid": "05023827",
-	"defaultdelay": 500,
-	"randomdelay": 500,
-	"pay": "0",
-	"endtime": "2019-05-03 16:25:20"
-}, {
-	"name": "錵訫晓萝卜",
-	"cardid": "62445314",
-	"defaultdelay": 500,
-	"randomdelay": 500,
-	"pay": "0",
-	"endtime": "2019-05-03 20:25:20"
-}, {
-	"name": "qq却邪",
-	"cardid": "02150413",
-	"defaultdelay": 500,
-	"randomdelay": 500,
-	"pay": "0",
-	"endtime": "2019-05-04 11:00:00"
-}, {
-	"name": "qq十一",
-	"cardid": "10281036",
-	"defaultdelay": 500,
-	"randomdelay": 500,
-	"pay": "0",
-	"endtime": "2019-05-04 09:00:00"
-}, {
-	"name": "qq啊牛",
-	"cardid": "06250327",
-	"defaultdelay": 300,
-	"randomdelay": 300,
-	"pay": "0",
-	"endtime": "2019-05-15 20:00:00"
+	"endtime": "2019-05-27 12:48:20"
 }]
