@@ -251,6 +251,27 @@
 	"pay": "50",
 	"endtime": "2019-06-27 20:15:20"
 }, {
+	"name": "定制助手31",
+	"cardid": "16222459",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "30",
+	"endtime": "2019-06-27 20:15:20"
+}, {
+	"name": "定制助手32",
+	"cardid": "60486567",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "40",
+	"endtime": "2019-06-27 20:15:20"
+}, {
+	"name": "定制助手33",
+	"cardid": "60486568",
+	"defaultdelay": 100,
+	"randomdelay": 100,
+	"pay": "40",
+	"endtime": "2019-06-27 20:15:20"
+}, {
 	"name": "xz",
 	"cardid": "19890415",
 	"defaultdelay": 100,
