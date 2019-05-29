@@ -1,0 +1,15 @@
+﻿[{
+	"name": "xz",
+	"cardid": "cenco0415",
+	"defaultdelay": 500,
+	"randomdelay": 500,
+	"pay": "100",
+	"endtime": "2019-06-15 16:16:20"
+}, {
+	"name": "测试",
+	"cardid": "test001",
+	"defaultdelay": 500,
+	"randomdelay": 500,
+	"pay": "0",
+	"endtime": "2019-05-29 18:00:20"
+}]
