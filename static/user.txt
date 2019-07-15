@@ -32,7 +32,7 @@
 	"defaultdelay": 100,
 	"randomdelay": 100,
 	"pay": "30",
-	"endtime": "2019-06-15 20:15:20"
+	"endtime": "2019-08-15 20:15:20"
 }, {
 	"name": "卡点助手2",
 	"cardid": "05151301",
